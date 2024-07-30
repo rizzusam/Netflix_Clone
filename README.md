@@ -1,7 +1,7 @@
 # Netflix_Clone
 This is the clone of Netflix which i have created using HTML, CSS 
 
-#Screenshots
+# Screenshots
 
 ![image](https://github.com/rizzusam/Netflix_Clone/blob/main/screenshots/Screenshot%20(1).png)
 ![image](https://github.com/rizzusam/Netflix_Clone/blob/main/screenshots/Screenshot%20(2).png)
